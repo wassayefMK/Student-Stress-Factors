@@ -1,4 +1,4 @@
-# Student-Stress-Factors – Big Data Pipeline
+# Student Stress Factors – Big Data Pipeline
 This repository contains a complete **Big Data pipeline** for analyzing and predicting **student stress levels** using Apache Spark and AWS EMR. The project was developed as part of the **IT462 – Big Data Systems** course at King Saud University.
 We use **RDD transformations**, **Spark SQL**, and **Spark MLlib** to explore stress-related factors, engineer insights, and train a machine learning model to classify students into **Low, Moderate, and High stress** categories.
 
